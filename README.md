@@ -1,6 +1,6 @@
 # Plotly
 ## Plot.ly challenge for Week 15
-![image of bacteria] (https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.nutraingredients.com%2FArticle%2F2019%2F10%2F04%2FGut-health-affected-by-teams-of-bacteria-not-individual-species&psig=AOvVaw1nOsjlfONWO7MzKLH7t3WV&ust=1600186648895000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCODAxfqF6esCFQAAAAAdAAAAABAD)
+![image of bacteria] (https://cdn-a.william-reed.com/var/wrbm_gb_food_pharma/storage/images/publications/food-beverage-nutrition/nutraingredients.com/article/2019/10/04/gut-health-affected-by-teams-of-bacteria-not-individual-species/10214854-1-eng-GB/Gut-health-affected-by-teams-of-bacteria-not-individual-species.jpg)
 
 
 ### Assignment Overview:
