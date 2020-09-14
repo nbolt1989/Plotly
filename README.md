@@ -1,7 +1,7 @@
 # Plotly
 ## Plot.ly challenge for Week 15
-![image of bacteria] (Users/nathanbolt/Desktop/GitRepos/Plot.ly/Plotly/Images/bacteria.jpg)
-Format: ![Alt Text](url)
+![image of bacteria] (https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.nutraingredients.com%2FArticle%2F2019%2F10%2F04%2FGut-health-affected-by-teams-of-bacteria-not-individual-species&psig=AOvVaw1nOsjlfONWO7MzKLH7t3WV&ust=1600186648895000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCODAxfqF6esCFQAAAAAdAAAAABAD)
+
 
 ### Assignment Overview:
 
