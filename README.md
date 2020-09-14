@@ -1,5 +1,7 @@
 # Plotly
 ## Plot.ly challenge for Week 15
+![image of bacteria] (Users/nathanbolt/Desktop/GitRepos/Plot.ly/Plotly/Images/bacteria.jpg)
+Format: ![Alt Text](url)
 
 ### Assignment Overview:
 
