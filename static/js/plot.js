@@ -23,13 +23,6 @@ function init() {
     optionChanged(jsonData.names[0])
 };
 
-function optionChanged(personId) {
-    //create barchart, bubblechart, demo stuff, and gauge chart
-    demographicstuff(personId);
-    barchart(personId);
-    bubblechart(personId);
-    gaugechart(personId);
-};
 
 //------------------------------------------------
 
@@ -160,4 +153,10 @@ function gaugechart(personId) {
 //------------------------------------------------
 //-----flip on all the functions once they have been created
 
-
+function optionChanged(personId) {
+    //create barchart, bubblechart, demo stuff, and gauge chart
+    demographicstuff(personId);
+    barchart(personId);
+    bubblechart(personId);
+    gaugechart(personId);
+};
