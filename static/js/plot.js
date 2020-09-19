@@ -1,6 +1,6 @@
-console.log("hello")
+//console.log("hello")
 //create a json path for all of the data
-const jsonPath = "/static/data/samples.json";
+const jsonPath = "static/data/samples.json";
 
 //grab the JSON data--use a .then like in day 2.3
 d3.json(jsonPath).then((data) => {
@@ -21,6 +21,14 @@ function init() {
         myDropDown.append('option').text(name).property('value', name);
     });
     optionChanged(jsonData.names[0])
+};
+
+function optionChanged(personId) {
+    //create barchart, bubblechart, demo stuff, and gauge chart
+    demographicstuff(personId);
+    barchart(personId);
+    bubblechart(personId);
+    gaugechart(personId);
 };
 
 //------------------------------------------------
@@ -151,11 +159,5 @@ function gaugechart(personId) {
 };
 //------------------------------------------------
 //-----flip on all the functions once they have been created
-function optionChanged(personId) {
-    //create barchart, bubblechart, demo stuff, and gauge chart
-    demographicstuff(personId);
-    barchart(personId);
-    bubblechart(personId);
-    gaugechart(personId);
-};
+
 
