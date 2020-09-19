@@ -1,3 +1,4 @@
+console.log("hello")
 //create a json path for all of the data
 const jsonPath = "/static/data/samples.json";
 
