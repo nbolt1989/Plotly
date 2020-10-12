@@ -1,11 +1,11 @@
-# Plotly
-## Plot.ly challenge for Week 15
+# Javascript - Plotly
+
 ![image of bacteria](https://cdn-a.william-reed.com/var/wrbm_gb_food_pharma/storage/images/publications/food-beverage-nutrition/nutraingredients.com/article/2019/10/04/gut-health-affected-by-teams-of-bacteria-not-individual-species/10214854-1-eng-GB/Gut-health-affected-by-teams-of-bacteria-not-individual-species.jpg)
 
 
 ### Assignment Overview:
 
-In this assignment, you will build an interactive dashboard to explore the Belly Button Biodiversity dataset, which catalogs the microbes that colonize human navels.
+Here you will navigate an interactive dashboard to explore a Belly Button Biodiversity dataset, which catalogs the microbes that colonize human navels.
 The dataset reveals that a small handful of microbial species (also called operational taxonomic units, or OTUs, in the study) were present in more than 70% of people, while the rest were relatively rare.
 
 ### Steps: 
